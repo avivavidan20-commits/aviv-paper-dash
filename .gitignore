@@ -1,0 +1,6 @@
+# Whitelist: only the encrypted page may be committed
+*
+!.gitignore
+!index.html
+!README.md
+!.nojekyll
